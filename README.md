@@ -142,7 +142,7 @@ $$ C = {2 \cdot (0.0015 + 0.00135) \over 3^2 - 2^2} = 1140\ мкФ$$
 
 <figure style="text-align: center">
 	<img src="_static\schematic.png" alt="sketch">
-	<figcaption style="text-align: center">Результат. Передняя сторона</figcaption>
+	<figcaption style="text-align: center">Схема электрическая принципиальная</figcaption>
 </figure>
 
 # Алгоритм сборки
