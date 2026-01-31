@@ -1,0 +1,8 @@
+docs/
+
+pcb/st-valentine-postcard/st-valentine-postcard-backups
+*.lck
+*_autosave*
+*.7z
+
+code/.metadata
